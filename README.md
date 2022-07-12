@@ -1,0 +1,2 @@
+# XSSBuster
+ Avoid XSS attacks.
