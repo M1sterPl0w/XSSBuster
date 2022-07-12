@@ -1,2 +1,7 @@
-# XSSBuster
- Avoid XSS attacks.
+XSSBuster
+=============
+
+License
+-------
+
+[MIT License](https://en.wikipedia.org/wiki/MIT_License)
